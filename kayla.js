@@ -531,13 +531,13 @@ templateButtons: [
 ]})
 }
 
-const botzkayla = "6287705048235@s.whatsapp.net"
+const botzkayla = "6285730794089@s.whatsapp.net"
 const mark = "0@s.whatsapp.net"
 const timestamp = speed()
 const latensi = speed() - timestamp
 const butlocNye = [
-{buttonId: `${prefix}owner`, buttonText: {displayText: '𝗢𝗪𝗡𝗘𝗥'}, type: 1},
-{buttonId: `${prefix}sewabot`, buttonText: {displayText: '𝗦𝗘𝗪𝗔𝗕𝗢𝗧'}, type: 1}
+{buttonId: `${prefix}owner`, buttonText: {displayText: '𝗢𝗪𝗡𝗘𝗥 𝗧𝗘𝗥𝗚𝗔𝗡𝗧𝗘𝗡𝗚'}, type: 1},
+{buttonId: `${prefix}sewabot`, buttonText: {displayText: '𝗦𝗘𝗪𝗔 𝗚𝗜𝗟𝗭𝗭 𝗕𝗢𝗧'}, type: 1}
 ]
 const buttonLocnya = {
 location: { jpegThumbnail: ppnyauser } ,
@@ -953,20 +953,21 @@ kayla.sendImage(m.chat, buff, `${getkaydata.response}`, m)
 const seactions = [{
 title: `𝐒𝐈𝐋𝐀𝐇𝐊𝐀𝐍 𝐏𝐈𝐋𝐈𝐇 𝐃𝐈 𝐁𝐀𝐖𝐀𝐇`,
 rows: [
-{title: `⊟ 𝐀𝐋𝐋 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}allmenu`},
-{title: `⊟ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}ownermenu`},
-{title: `⊟ 𝐎𝐓𝐇𝐄𝐑 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}othermenu`},
-{title: `⊟ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}downloadmenu`},
-{title: `⊟ 𝐁𝐔𝐆 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}bugmenu`},
-{title: `⊟ 𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}groupmenu`},
-{title: `⊟ 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}funmenu`},
-{title: `⊟ 𝐒𝐓𝐀𝐋𝐊𝐄𝐑 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}stalkermenu`},
-{title: `⊟ 𝐅𝐎𝐓𝐎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}randfotomenu`},
-{title: `⊟ 𝐕𝐈𝐃𝐈𝐎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}randvideomenu`},
-{title: `⊟ 𝐓𝐄𝐗𝐓 𝐏𝐑𝐎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}textpromenu`},
-{title: `⊟ 𝐏𝐇𝐎𝐓𝐎 𝐎𝐗𝐘 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}photooxymenu`},
-{title: `⊟ 𝐄𝐏𝐇𝐎𝐓𝐎 𝟑𝟔𝟎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}ephoto360menu`},
-{title: `⊟ 𝐂𝐄𝐑𝐏𝐄𝐍 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}cerpenmenu`},
+{title: `✴ 𝐀𝐋𝐋 𝐌𝐄𝐍𝐔`, rowId: `${prefix}allmenu`},
+{title: `✴ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔`, rowId: `${prefix}ownermenu`},
+{title: `✴ 𝐎𝐓𝐇𝐄𝐑 𝐌𝐄𝐍𝐔`, rowId: `${prefix}othermenu`},
+{title: `✴ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔`, rowId: `${prefix}downloadmenu`},
+{title: `✴ 𝐁𝐔𝐆 𝐌𝐄𝐍𝐔`, rowId: `${prefix}bugmenu`},
+{title: `✴ 𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔`, rowId: `${prefix}groupmenu`},
+{title: `✴ 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔`, rowId: `${prefix}funmenu`},
+{title: `✴ 𝐒𝐓𝐀𝐋𝐊𝐄𝐑 𝐌𝐄𝐍𝐔`, rowId: `${prefix}stalkermenu`},
+{title: `✴ 𝐅𝐎𝐓𝐎 𝐌𝐄𝐍𝐔`, rowId: `${prefix}randfotomenu`},
+{title: `✴ 𝐕𝐈𝐃𝐈𝐎 𝐌𝐄𝐍𝐔`, rowId: `${prefix}randvideomenu`},
+{title: `✴ 𝐓𝐄𝐗𝐓 𝐏𝐑𝐎 𝐌𝐄𝐍𝐔`, rowId: `${prefix}textpromenu`},
+{title: `✴ 𝐏𝐇𝐎𝐓𝐎 𝐎𝐗𝐘 𝐌𝐄𝐍𝐔`, rowId: `${prefix}photooxymenu`},
+{title: `✴ 𝐄𝐏𝐇𝐎𝐓𝐎 𝟑𝟔𝟎 𝐌𝐄𝐍𝐔`, rowId: `${prefix}ephoto360menu`},
+{title: `✴ 𝐂𝐄𝐑𝐏𝐄𝐍 𝐌𝐄𝐍𝐔`, rowId: `${prefix}cerpenmenu`},
+{title: `✴ 𝐒𝐄𝐖𝐀 𝐁𝐎𝐓`, rowId: `${prefix}sewabot`},
 ]}]
 const listMenuMessage = { 
 text: `Silahkan Kak @${sender.split("@")[0]} Pencet Button List Message Nya Di Bawah Ya`,

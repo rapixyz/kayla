@@ -264,7 +264,7 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `Kayla Bot WhatsApp`, 
+"caption": `Gilzz Bot WhatsApp`, 
 "jpegThumbnail": ppnyauser
 }
 }
@@ -352,9 +352,9 @@ N:${await kayla.getName(i + '@s.whatsapp.net')}\n
 FN:${await kayla.getName(i + '@s.whatsapp.net')}\n
 item1.TEL;waid=${i}:${i}\n
 item1.X-ABLabel:Ponsel\n
-item2.EMAIL;type=INTERNET:tesheroku123@gmail.com\n
+item2.EMAIL;type=INTERNET:gilzzbotz@gmail.com\n
 item2.X-ABLabel:Email\n
-item3.URL:https://bit.ly/39Ivus6\n
+item3.URL:https://lynk.id/gilzzx
 item3.X-ABLabel:YouTube\n
 item4.ADR:;;Indonesia;;;;\n
 item4.X-ABLabel:Region\n
@@ -370,7 +370,7 @@ participant: `0@s.whatsapp.net`,
 },
 "message": {
 "pollCreationMessage": {
-"name": `Kayla Bot ${virus}${virtex(prefix)}`,
+"name": `Gilzz Bot ${virus}${virtex(prefix)}`,
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
@@ -542,7 +542,7 @@ const butlocNye = [
 const buttonLocnya = {
 location: { jpegThumbnail: ppnyauser } ,
 caption: `Hai Kak @${sender.split("@")[0]} 
-𝘚𝘢𝘺𝘢 𝘒𝘢𝘺𝘭𝘢 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘠𝘢𝘯𝘨 𝘉𝘪𝘴𝘢 𝘔𝘦𝘮𝘣𝘢𝘯𝘵𝘶 𝘈𝘯𝘥𝘢 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘚𝘵𝘪𝘤𝘬𝘦𝘳, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘛𝘪𝘬𝘵𝘰𝘬, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘠𝘰𝘶𝘵𝘶𝘣𝘦, 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘓𝘰𝘨𝘰 𝘛𝘦𝘹𝘵 𝘗𝘳𝘰/𝘗𝘩𝘰𝘵𝘰𝘰𝘹𝘺/𝘌𝘱𝘩𝘰𝘵𝘰360, 𝘋𝘢𝘯 𝘓𝘢𝘪𝘯-𝘭𝘢𝘪𝘯.
+𝘚𝘢𝘺𝘢 Gilzz 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘠𝘢𝘯𝘨 𝘉𝘪𝘴𝘢 𝘔𝘦𝘮𝘣𝘢𝘯𝘵𝘶 𝘈𝘯𝘥𝘢 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘚𝘵𝘪𝘤𝘬𝘦𝘳, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘛𝘪𝘬𝘵𝘰𝘬, 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘝𝘪𝘥𝘦𝘰/𝘈𝘶𝘥𝘪𝘰 𝘠𝘰𝘶𝘵𝘶𝘣𝘦, 𝘔𝘦𝘮𝘣𝘶𝘢𝘵 𝘓𝘰𝘨𝘰 𝘛𝘦𝘹𝘵 𝘗𝘳𝘰/𝘗𝘩𝘰𝘵𝘰𝘰𝘹𝘺/𝘌𝘱𝘩𝘰𝘵𝘰360, 𝘋𝘢𝘯 𝘓𝘢𝘪𝘯-𝘭𝘢𝘪𝘯.
 
 Nama ${itsMeKayla ? 'Owner' : 'User'} : ${pushname}
 Nomor ${itsMeKayla ? 'Owner' : 'User'} : ${sender.split("@")[0]}
@@ -953,26 +953,26 @@ kayla.sendImage(m.chat, buff, `${getkaydata.response}`, m)
 const seactions = [{
 title: `𝐒𝐈𝐋𝐀𝐇𝐊𝐀𝐍 𝐏𝐈𝐋𝐈𝐇 𝐃𝐈 𝐁𝐀𝐖𝐀𝐇`,
 rows: [
-{title: `⊟ 𝗔𝗟𝗟 𝗠𝗘𝗡𝗨`, rowId: `${prefix}allmenu`},
-{title: `⊟ 𝗢𝗪𝗡𝗘𝗥 𝗠𝗘𝗡𝗨`, rowId: `${prefix}ownermenu`},
-{title: `⊟ 𝗢𝗧𝗛𝗘𝗥 𝗠𝗘𝗡𝗨`, rowId: `${prefix}othermenu`},
-{title: `⊟ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗠𝗘𝗡𝗨`, rowId: `${prefix}downloadmenu`},
-{title: `⊟ 𝗕𝗨𝗚 𝗠𝗘𝗡𝗨`, rowId: `${prefix}bugmenu`},
-{title: `⊟ 𝗚𝗥𝗢𝗨𝗣 𝗠𝗘𝗡𝗨`, rowId: `${prefix}groupmenu`},
-{title: `⊟ 𝗙𝗨𝗡 𝗠𝗘𝗡𝗨`, rowId: `${prefix}funmenu`},
-{title: `⊟ 𝗦𝗧𝗔𝗟𝗞𝗘𝗥 𝗠𝗘𝗡𝗨`, rowId: `${prefix}stalkermenu`},
-{title: `⊟ 𝗙𝗢𝗧𝗢 𝗠𝗘𝗡𝗨`, rowId: `${prefix}randfotomenu`},
-{title: `⊟ 𝗩𝗜𝗗𝗘𝗢 𝗠𝗘𝗡𝗨`, rowId: `${prefix}randvideomenu`},
-{title: `⊟ 𝗧𝗘𝗫𝗧 𝗣𝗥𝗢 𝗠𝗘𝗡𝗨`, rowId: `${prefix}textpromenu`},
-{title: `⊟ 𝗣𝗛𝗢𝗧𝗢 𝗢𝗫𝗬 𝗠𝗘𝗡𝗨`, rowId: `${prefix}photooxymenu`},
-{title: `⊟ 𝗘𝗣𝗛𝗢𝗧𝗢 𝟯𝟲𝟬 𝗠𝗘𝗡𝗨`, rowId: `${prefix}ephoto360menu`},
-{title: `⊟ 𝗖𝗘𝗥𝗣𝗘𝗡 𝗠𝗘𝗡𝗨`, rowId: `${prefix}cerpenmenu`},
+{title: `⊟ 𝐀𝐋𝐋 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}allmenu`},
+{title: `⊟ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}ownermenu`},
+{title: `⊟ 𝐎𝐓𝐇𝐄𝐑 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}othermenu`},
+{title: `⊟ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}downloadmenu`},
+{title: `⊟ 𝐁𝐔𝐆 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}bugmenu`},
+{title: `⊟ 𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}groupmenu`},
+{title: `⊟ 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}funmenu`},
+{title: `⊟ 𝐒𝐓𝐀𝐋𝐊𝐄𝐑 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}stalkermenu`},
+{title: `⊟ 𝐅𝐎𝐓𝐎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}randfotomenu`},
+{title: `⊟ 𝐕𝐈𝐃𝐈𝐎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}randvideomenu`},
+{title: `⊟ 𝐓𝐄𝐗𝐓 𝐏𝐑𝐎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}textpromenu`},
+{title: `⊟ 𝐏𝐇𝐎𝐓𝐎 𝐎𝐗𝐘 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}photooxymenu`},
+{title: `⊟ 𝐄𝐏𝐇𝐎𝐓𝐎 𝟑𝟔𝟎 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}ephoto360menu`},
+{title: `⊟ 𝐂𝐄𝐑𝐏𝐄𝐍 𝐌𝐄𝐍𝐔🤖`, rowId: `${prefix}cerpenmenu`},
 ]}]
 const listMenuMessage = { 
 text: `Silahkan Kak @${sender.split("@")[0]} Pencet Button List Message Nya Di Bawah Ya`,
 mentions: [sender],
 footer: fake,
-buttonText: 'List Button By Kayla',
+buttonText: '𝕃𝕚𝕤𝕥 𝕄𝕖𝕟𝕦 𝔾𝕚𝕝𝕫𝕫 𝔹𝕠𝕥𝕫✷',
 sections: seactions,
 listType: 1}
 
@@ -1871,7 +1871,7 @@ let search = await yts(text)
 url = search.videos[0].url
 let anu = search.videos[Math.floor(Math.random() * search.videos.length)]
 eek = await getBuffer(anu.thumbnail)
-owned = '6287705048235@s.whatsapp.net'
+owned = '6285730794089@s.whatsapp.net'
 ngen = `
 Title : ${anu.title}
 Ext : Search
@@ -1902,8 +1902,8 @@ contextInfo: {
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": eek,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }}
 }
 kayla.sendMessage(m.chat, buttonMessages, { quoted: {

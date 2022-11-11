@@ -1031,8 +1031,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1050,8 +1050,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1069,8 +1069,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1088,8 +1088,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1107,8 +1107,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1126,8 +1126,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1145,8 +1145,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1164,8 +1164,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1183,8 +1183,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1202,8 +1202,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1221,8 +1221,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1240,8 +1240,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1259,8 +1259,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1278,8 +1278,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiyq',
+"sourceUrl": 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
 }
 }
 })
@@ -1995,25 +1995,25 @@ case 'sewakay':
 if ((args[0]) == '1minggu'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 10K • Sewabot 1 Minggu
+📮 : *Paket:* 3K • Sewabot 1 Minggu
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == '1bulan'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 20K • Sewabot 1 Bulan
+📮 : *Paket:* 4K • Sewabot 1 Bulan
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == '1tahun'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 35K • Sewabot 1 Tahun
+📮 : *Paket:* 5K • Sewabot 1 Tahun
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == 'permanent'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 45K • Sewabot Permanent
+📮 : *Paket:* 7K • Sewabot Permanent
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 }
 break
@@ -2047,25 +2047,25 @@ case 'botkay':
 if ((args[0]) == '1minggu'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 10K • Jadibot 1 Minggu
+📮 : *Paket:* 5K • Jadibot 1 Minggu
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == '1bulan'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 20K • Jadibot 1 Bulan
+📮 : *Paket:* 10K • Jadibot 1 Bulan
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == '1tahun'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 35K • Jadibot 1 Tahun
+📮 : *Paket:* 20K • Jadibot 1 Tahun
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == 'permanent'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 45K • Jadibot Permanent
+📮 : *Paket:* 20K • Jadibot Permanent
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 }
 break
@@ -2073,25 +2073,25 @@ case 'ownkay':
 if ((args[0]) == '1minggu'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 10K • Jadi Owner 1 Minggu
+📮 : *Paket:* 5K • Jadi Owner 1 Minggu
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == '1bulan'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 20K • Jadi Owner 1 Bulan
+📮 : *Paket:* 10K • Jadi Owner 1 Bulan
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == '1tahun'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 35K • Jadi Owner 1 Tahun
+📮 : *Paket:* 15K • Jadi Owner 1 Tahun
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 } else
 if ((args[0]) == 'permanent'){
 reply(`Pesanan Kamu Sedang Di Proses Oleh Bot, Silahkan Tunggu Nanti Juga Di Chat Owner Untuk Di Konfirmasi`)
 kayla.sendMessage(creator,{text:`*❏ ORDER ❏*
-📮 : *Paket:* 45K • Jadi Owner Permanent
+📮 : *Paket:* 20K • Jadi Owner Permanent
 - @${sender.split("@")[0]}`,mentions: [sender], },{quoted:m})
 }
 break
@@ -2597,7 +2597,7 @@ var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject
 "optionName": "KATANYA KEBAL"
 	},
 	{
-"optionName": "SALAM DARI KAYLA BOT"
+"optionName": "SALAM DARI GILZ BOT"
 	}
 ],
 "selectableOptionsCount": 5
